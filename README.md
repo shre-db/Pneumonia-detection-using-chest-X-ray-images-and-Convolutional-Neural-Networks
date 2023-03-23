@@ -1,4 +1,5 @@
 # Pneumonia Detection using Chest X-ray Images and Convolutional Neural Networks
+![cover](images/xray_cover.jpeg)
 
 Overview
 --------
