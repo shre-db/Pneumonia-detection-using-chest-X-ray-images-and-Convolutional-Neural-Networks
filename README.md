@@ -163,6 +163,10 @@ Credits
 - I would like to thank [Dr. Mike X Cohen](https://www.mikexcohen.com/) for his guidance in designing and training Neural Networks. Please visit his [website](https://www.mikexcohen.com/) to find out more about him.
 - I would like to thank ChatGPT, an OpenAI language model, and Bing for their invaluable assistance in providing general guidance for coding and troubleshooting errors throughout the development of this project.
 
+License
+-------
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 Contact
 -------
 - **Name**: Shreyas
